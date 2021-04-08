@@ -3,12 +3,9 @@ Repository program pengolahan data pada mata kuliah Praktikum Fisika Lanjutan, D
 
 Pengolahan data menggunakan Jupyter Notebook, dengan bahasa pemrograman Python versi 3.8.5. Library yang digunakan setiap modul akan dijelaskan dibawah
 
-## Modul EM3 Thomson Tube
+### EM3 Thomson Tube
 Menggunakan library pandas dan matplotlib, cara instalasi library:
 Metode pip
   pip install pandas matplotlib
 atau jika menggunakan Anaconda
   conda install pandas matplotlib
-  
-## Modul MED1 Pencacahan Statistik Nuklir
-Pengolahan data menggunakan Excel
