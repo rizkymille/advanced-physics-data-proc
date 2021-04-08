@@ -5,7 +5,7 @@ Pengolahan data menggunakan Jupyter Notebook, dengan bahasa pemrograman Python v
 
 ### EM3 Thomson Tube
 Menggunakan library pandas dan matplotlib, cara instalasi library:  
-####Metode pip  
+#### Metode pip  
   `pip install pandas matplotlib`  
-####atau jika menggunakan Anaconda  
+#### atau jika menggunakan Anaconda  
   `conda install pandas matplotlib`  
