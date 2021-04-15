@@ -1,0 +1,11 @@
+rpiringan = 2.5cm
+Percobaan 1: Simpangan dengan beban, tali regang
+Percobaan 2: Simpangan dengan waktu (3 kali periode)
+Percobaan 3: Simpangan dengan waktu, ketika ditambahkan quadrant brass (3 kali periode)
+
+Cari Isistem dari percobaan 2!
+bandingkan kedua Isistem dari percobaan kedua dan ketiga
+
+Tugas tambahan:
+1. cari dimensi k (konstanta puntir) dan bandingkan dengan dimensi konstanta pegas
+2. cek dimensi persamaan percobaan 3 cocok dengan persamaan 1
