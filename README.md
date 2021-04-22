@@ -7,9 +7,9 @@ Jupyter Notebook
 Python 3.8.5
 
 ### Libraries
-#### pandas
-#### matplotlib
-#### statsmodels
+pandas  
+matplotlib  
+statsmodels
 
 ## Instalasi Library
 ### Metode pip
