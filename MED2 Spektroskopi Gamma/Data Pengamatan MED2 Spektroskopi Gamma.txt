@@ -1,0 +1,20 @@
+- Aktivitas Co-60 pada 20 Oktober 2000: 74 kBq
+- Waktu Paruh Co-60: 5,26 Tahun
+
+### Efisiensi
+
+- Nilai FWHM pada energi 1332,5 keV: 80,63
+- Live Time: 100 detik
+- Jumlah cacahan pada energi 1332,5 keV: 983
+- Probabilitas pancaran radiasi gamma 1332,5 keV: 99,85%
+
+### Peak to Compton Ratio
+
+- Nilai cacahan pada energi puncak 1332,5 keV: 253
+- Nilai cacahan integral rentang 1040-1096 keV: 1092
+- Nilai cacahan pada energi 1040 keV: 131
+- Nilai cacahan pada energi 1096 keV: 175
+
+### Identifikasi Sumber
+
+Terdapat beberapa peak energi dengan puncak tertinggi berada di energi 208 keV

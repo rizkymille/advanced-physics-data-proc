@@ -1,0 +1,5 @@
+	Intensitas (Power 5) (mV)	Intensitas (Power 6) (mV)
+Hitam	1.1	3.5
+Putih	1	3.2
+Kasar	0.8	2.7
+Halus	0.5	1.8
