@@ -1,0 +1,4 @@
+Material	U/V (V)
+Dry Foam	4.52
+Wet Foam	2.726
+Moist Foam	1.126

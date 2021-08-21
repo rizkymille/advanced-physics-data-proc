@@ -1,0 +1,6 @@
+Frekuensi (MHz)	Linewidth (cm)
+30.6	1.2
+34.5	1.4
+39.8	1.3
+45	1.5
+
